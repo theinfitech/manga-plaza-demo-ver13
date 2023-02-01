@@ -241,6 +241,11 @@ body {
   margin-right: 1.6vw;
 }
 
+.image22 {
+  width: 60%;
+  float: right;
+}
+
 @media (min-width:991px) {
   .layout {
     font-size: 69px;
